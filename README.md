@@ -1,1 +1,1 @@
-# Movie-Box-Office-Predictor
+# moviepred
